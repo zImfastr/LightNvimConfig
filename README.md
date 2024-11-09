@@ -1,6 +1,6 @@
 # LightNvimConfig
 
-## ! This config isnt finished, im still adding some plugins ! 
+## ! This config isn't finished, im still adding some plugins ! 
 
 ### A Light Nvim Config including:
 
@@ -15,6 +15,8 @@
 - nvim-tree
 
 - lualine
+
+- Fine-CmdLine
 
 
 ### This config is just a starting point and is a completely customizable modular build:
