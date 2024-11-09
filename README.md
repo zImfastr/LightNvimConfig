@@ -15,8 +15,11 @@ This config is just a starting point and is completely customizable
 Modular build:
 
 /lua/core -> directory for all plugin related files
+
 plugins.lua -> install plugins via packer
+
 plugin_config -> Directory for all plugin config files
+
 init.lua -> init.lua
 
 If you want to change theme:
