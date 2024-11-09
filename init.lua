@@ -8,3 +8,4 @@ set number
 colo cyberdream
 ]])
 
+-- this is test
