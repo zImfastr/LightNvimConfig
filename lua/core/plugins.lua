@@ -19,11 +19,12 @@ return require('packer').startup(function(use)
   use 'nvim-lualine/lualine.nvim'
   use 'nvim-tree/nvim-tree.lua'
   use 'nvim-treesitter/nvim-treesitter'
+  use 'stevearc/dressing.nvim'
   use {
   'nvim-telescope/telescope.nvim', 
    tag = '0.1.8',
    requires = {{'nvim-lua/plenary.nvim'}}
- }
+    }
   use {
   'VonHeikemen/fine-cmdline.nvim',
   requires = {
@@ -35,3 +36,7 @@ return require('packer').startup(function(use)
     require('packer').sync()
   end
 end)
+
+
+
+

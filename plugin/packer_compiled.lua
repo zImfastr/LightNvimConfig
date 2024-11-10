@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\Pushm\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\cyberdream.nvim",
     url = "https://github.com/scottmckendry/cyberdream.nvim"
   },
+  ["dressing.nvim"] = {
+    loaded = true,
+    path = "C:\\Users\\Pushm\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\dressing.nvim",
+    url = "https://github.com/stevearc/dressing.nvim"
+  },
   ["fine-cmdline.nvim"] = {
     loaded = true,
     path = "C:\\Users\\Pushm\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\fine-cmdline.nvim",
