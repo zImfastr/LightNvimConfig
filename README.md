@@ -35,7 +35,7 @@ init.lua -> init.lua
 
 ### LSP:
 
-currently there are 5 lsps configured, tutorial on adding new ones is coming:
+currently there are 5 lsp's configured, tutorial on adding new ones is coming:
 
 - Python (Pyright, PYLSP)
 
