@@ -20,6 +20,12 @@ return require('packer').startup(function(use)
   use 'nvim-tree/nvim-tree.lua'
   use 'nvim-treesitter/nvim-treesitter'
   use 'stevearc/dressing.nvim'
+  use "williamboman/mason.nvim"
+  use "williamboman/mason-lspconfig.nvim"
+  use "neovim/nvim-lspconfig"
+  use "hrsh7th/nvim-cmp"
+  use "hrsh7th/cmp-nvim-lsp"
+  use "L3MON4D3/LuaSnip"
   use {
   'nvim-telescope/telescope.nvim', 
    tag = '0.1.8',
@@ -36,7 +42,5 @@ return require('packer').startup(function(use)
     require('packer').sync()
   end
 end)
-
-
 
 
