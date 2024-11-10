@@ -1,6 +1,7 @@
 # LightNvimConfig
 
 ## ! This config isn't finished, im still adding some plugins ! 
+## ! README isnt finished and is still worked on !
 
 ### A Light Nvim Config including:
 
@@ -18,6 +19,9 @@
 
 - Fine-CmdLine
 
+- Lsp Configuratiion
+
+- Autocompletions
 
 ### This config is just a starting point and is a completely customizable modular build:
 
@@ -28,6 +32,20 @@ plugins.lua -> install plugins via packer
 plugin_config -> Directory for all plugin config files
 
 init.lua -> init.lua
+
+### LSP:
+
+currently there are 5 lsps configured, tutorial on adding new ones is coming:
+
+- Python (Pyright, PYLSP)
+
+- Typescript (tp_ls)
+
+- Lua (lua_ls)
+
+- HTML
+
+- CSS
 
 
 ### If you want to change the theme:
