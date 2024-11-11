@@ -1,6 +1,6 @@
 # LightNvimConfig
 
-## ! Only tested on Windows sofar please Report any bugs !
+## ! Only tested on Windows so far please Report any bugs !
 
 ### A Light Nvim Config including:
 
