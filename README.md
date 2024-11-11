@@ -1,6 +1,5 @@
 # LightNvimConfig
 
-## ! README isnt finished and is still worked on !
 ## ! Only tested on Windows sofar please Report any bugs !
 
 ### A Light Nvim Config including:
