@@ -134,13 +134,13 @@ Insert Mode:
 
 scroll through options "ctrl + j/k"
 
-Confirm "<CR>" (Enter)
+Confirm "CR" (Enter)
 
 Complete "ctrl + o"
 
 Normal Mode:
 
-hover "<shift> k"
+hover "shift k"
 
 definition "<space>D"
 
