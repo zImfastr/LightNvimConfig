@@ -150,7 +150,7 @@ references "gr"
 
 open tree "ctrl + n"
 
-focus tree "spacebar"
+focus tree "spacebar + e"
 
 
 ### Telescope:
