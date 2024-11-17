@@ -1,6 +1,6 @@
 require("mason").setup()
 require("mason-lspconfig").setup({
-  ensure_installed = { "lua_ls", "pylsp", "ts_ls" }
+  ensure_installed = { "lua_ls", "ts_ls", "tailwindcss", "pylsp", "html" }
 })
 
 local lspconfig = require('lspconfig')
@@ -30,9 +30,8 @@ require("lspconfig").lua_ls.setup {
   }
 }
 
+require("lspconfig").html.setup({})
 require("lspconfig").ts_ls.setup({})
-require("lspconfig").solargraph.setup({})
-require("lspconfig").gopls.setup({})
 require("lspconfig").tailwindcss.setup({})
 require("lspconfig").pyright.setup({})
 

@@ -17,4 +17,7 @@ vim.opt.expandtab = true
 
 vim.keymap.set('n', '<Space>h', ':nohlsearch<CR>')
 vim.api.nvim_set_keymap("n", "<Space>tt", ":CyberdreamToggleMode<CR>", { noremap = true, silent = true })
+vim.keymap.set('n', '<S-tab>', ':bnext<CR>')
+vim.keymap.set('n', '<S-BS>', ':bprev<CR>')
+
 
