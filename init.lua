@@ -3,5 +3,5 @@ require("core.plugins")
 require("core.plugin_config")
 
 
-vim.cmd([[colo cyberdream]])
+vim.cmd([[colo catppuccin]])
 vim.cmd([[set number]])

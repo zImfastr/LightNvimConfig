@@ -1,7 +1,7 @@
 require('lualine').setup{
   options = {
     icons_enabled = true,
-    theme = 'cyberdream' 
+    theme = 'catppuccin'
   },
   sections = {
     lualine_a = {

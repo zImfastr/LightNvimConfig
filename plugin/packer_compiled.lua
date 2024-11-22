@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/Users/max/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["auto-pairs"] = {
+    loaded = true,
+    path = "/Users/max/.local/share/nvim/site/pack/packer/start/auto-pairs",
+    url = "https://github.com/jiangmiao/auto-pairs"
+  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/Users/max/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
@@ -104,6 +109,11 @@ _G.packer_plugins = {
     path = "/Users/max/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
     url = "https://github.com/ellisonleao/gruvbox.nvim"
   },
+  ["hlchunk.nvim"] = {
+    loaded = true,
+    path = "/Users/max/.local/share/nvim/site/pack/packer/start/hlchunk.nvim",
+    url = "https://github.com/shellRaining/hlchunk.nvim"
+  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/Users/max/.local/share/nvim/site/pack/packer/start/lualine.nvim",
@@ -123,6 +133,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/max/.local/share/nvim/site/pack/packer/start/nui.nvim",
     url = "https://github.com/MunifTanjim/nui.nvim"
+  },
+  nvim = {
+    loaded = true,
+    path = "/Users/max/.local/share/nvim/site/pack/packer/start/nvim",
+    url = "https://github.com/catppuccin/nvim"
   },
   ["nvim-cmp"] = {
     loaded = true,
